@@ -1,0 +1,15 @@
+{
+    "labels.itemsPerPage": "Items per page",
+    "labels.paginationLabelNormal": "{from}-{to} of {count}",
+    "labels.paginationLabelOverflow": "{from}-{to} of more than {to}",
+    "labels.yes": "Yes",
+    "labels.no": "No",
+    "labels.actions": "Actions",
+    "labels.addUser": "Add user",
+    "labels.addUserFile": "Add file",
+    "labels.addItem":"Add Produce",
+    "labels.updateUser":"Update user",
+    "labels.numberItems":"Products Count",
+    "labels.addaddr":"Add adress",
+    "labels.updateaddr":"Update address"
+}
